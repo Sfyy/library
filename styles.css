@@ -39,6 +39,7 @@ p {
     flex-direction: column;
     margin: 0 auto;
 
+
 }
 
 body {
@@ -207,6 +208,7 @@ body {
     font-size: 14px;
     margin: 10px;
     font-family: 'Tilt Warp', cursive;
+
 }
 
 .footer {
@@ -217,12 +219,13 @@ body {
     align-items: center;
     justify-content: center;
     gap: 10px;
-    width: 100%;
     color: #f8fafc;
     font-family: 'Tilt Warp', cursive;
     font-size: 24px;
     text-align: center;
     margin-top: auto;
+    width: 100%;
+    padding: 20px 0;
 }
 
 .footer a {
